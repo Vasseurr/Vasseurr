@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Vasseurr but you can call me Okan 😀
 ![](https://visitor-badge.laobi.icu/badge?page_id=Vasseurr) [![Github](https://img.shields.io/github/followers/Vasseurr?label=Followers&logo=Github)](https://github.com/Vasseurr)
 
-## 🎓 I'm a computer engineer student at the University of Istanbul Culture
+## 🎓 I'm a computer engineer student at the Istanbul Kultur University
 
 - 🔭 I’m currently developing a website with Spring framework and ReactJS.
 - 🌱 I’m currently learning ReactJS.
