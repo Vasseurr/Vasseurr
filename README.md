@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Vasseurr but you can call me Okan 😀
+## Hi there 👋 I'm Vasseurr
 ![](https://visitor-badge.laobi.icu/badge?page_id=Vasseurr) [![Github](https://img.shields.io/github/followers/Vasseurr?label=Followers&logo=Github)](https://github.com/Vasseurr)
 
 ## 🎓 I'm a computer engineer student at the Istanbul Kultur University
