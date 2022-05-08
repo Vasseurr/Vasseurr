@@ -14,7 +14,7 @@
  -->
  <p align="center">
  <a href="https://linkedin.com/in/okanruzgar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okan-ruzgar" height="30" width="40" style="vertical-align:top; margin-left:100px"/></a>
- <a href="mailto:okan.rzgr37@gmail.com" target="blank"> <img align="center" src="https://image.flaticon.com/icons/png/512/281/281786.png" alt="Gmail" height="50" width="50" /></a>
+ <a href="mailto:okan.rzgr37@gmail.com" target="blank"> <img align="center" src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1652027908~hmac=e85978df49a2d9f81a07d0e5aec95970" alt="Gmail" height="50" width="50" /></a>
 </p>
 
 <br />
