@@ -3,7 +3,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Vasseurr) [![Github](https://img.shields.io/github/followers/Vasseurr?label=Followers&logo=Github)](https://github.com/Vasseurr)
 -->
 
-## 🎓 I'm a computer engineer student at the Istanbul Kultur University
+## 🎓 I'm a computer engineer
 
 - 🔭 I’m currently developing mobile projects with Flutter to cross platform.
 - ⚡ I’m currently using different state management tools such as Getx and Mobx.
