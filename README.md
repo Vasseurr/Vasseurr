@@ -3,9 +3,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Vasseurr) [![Github](https://img.shields.io/github/followers/Vasseurr?label=Followers&logo=Github)](https://github.com/Vasseurr)
 -->
 
-## 🎓 I'm a computer engineer
+## 🎓 I'm a fullstack developer
 
-- 🔭 I’m currently developing mobile projects with Flutter to cross platform.
+- 🔭 I’m currently developing fullstack projects with Spring Boot and Flutter.
 - ⚡ I’m currently using different state management tools such as Getx and Mobx.
 
 ## :email: Find me on:
