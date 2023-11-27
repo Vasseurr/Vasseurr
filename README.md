@@ -14,8 +14,14 @@
  -->
  <p align="center">
  <a href="https://linkedin.com/in/okanruzgar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="okan-ruzgar" height="30" width="40" style="vertical-align:top; margin-left:100px"/></a>
- <a href="mailto:okan.rzgr37@gmail.com" target="blank"> <img align="center" src="https://cdn-icons.flaticon.com/png/512/2875/premium/2875435.png?token=exp=1652027908~hmac=e85978df49a2d9f81a07d0e5aec95970" alt="Gmail" height="50" width="50" /></a>
+ <a href="mailto:okan.rzgr37@gmail.com" target="blank"> <img align="center" src="https://www.flaticon.com/free-icon/gmail_888853?term=gmail&page=1&position=3&origin=search&related_id=888853" alt="Gmail" height="50" width="50" /></a>
 </p>
+
+## My applications
+![expren](https://github.com/Vasseurr/Vasseurr/assets/67058617/27fcb6a7-dfaa-409d-a900-9573b6b86722)
+![Apple iPhone 11 Pro Max Presentation](https://github.com/Vasseurr/Vasseurr/assets/67058617/7dd93530-08f1-4d39-9af5-fb04cb8daa0d)
+![remindd](https://github.com/Vasseurr/Vasseurr/assets/67058617/7377dc2b-586f-42ea-a711-45ef207b741d)
+![schat](https://github.com/Vasseurr/Vasseurr/assets/67058617/fd1fafc3-cb07-4f73-8366-3dfaa7237ba3)
 
 <br />
 
